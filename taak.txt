@@ -1,0 +1,27 @@
+Microfoon - Martik Simonian en Lukas Sarkis Arabajyan
+
+Wat was het oorspronkelijke doel van jullie project?
+Om te begrijpen en te kunnen repliceren van een microfoon.
+
+
+Wat is er tot nu toe al gerealiseerd?
+Een BOM, een lijst van benodigdheden voor het maken van een microfoon.
+Een basisbegrip van KiCad, en hoe ik het schema zou kunnen maken.
+
+
+Waar werken jullie momenteel aan?
+Het realiseren van een schema in KiCad, om de pcb in de toekomst te kunnen bestellen. 
+
+
+Welke problemen of moeilijkheden zijn er?
+Het vinden van materialen online met lage kosten, en goede kwaliteit.
+Wegens het tekort aan lessen STEM hebben we vaak minder of zelfs niet genoeg tijd om aan onze projecten te kunnen werken om het nauwkeurig te kunnen realiseren (Bedankt aan de leerkracht voor de sommige extra lessen STEM).
+
+
+Wat zijn de volgende stappen?
+Het vinden van materialen online met lage kosten, en goede kwaliteit.
+Een werkend en goed schema ontwerpen in KiCad voor de pcb.
+
+
+Hebben jullie hulp nodig van de leerkracht?
+Voor het nakijken van het schema, en het bestellen en ook nakijken van waar we de materialen bestellen.
